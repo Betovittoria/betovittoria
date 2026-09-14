@@ -7,7 +7,7 @@
 <div align="center">
 
 [![Upwork](https://img.shields.io/badge/Upwork-Top%20Freelance%20Talent-14A800?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com)
-[![Email](https://img.shields.io/badge/Direct%20Inquiry-wilsonvicttoria%40gmail.com-0EA5E9?style=flat-square&logo=gmail&logoColor=white)](mailto:wilsonvicttoria@gmail.com)
+[![Email](https://img.shields.io/badge/Direct%20Inquiry-betovittoria%40gmail.com-0EA5E9?style=flat-square&logo=gmail&logoColor=white)](mailto:betovittoria@gmail.com)
 [![Status](https://img.shields.io/badge/Status-Accepting%20Select%20Projects-10B981?style=flat-square)](#-client-collaborations--contact)
 
 </div>
@@ -31,9 +31,9 @@ I design and build **high-converting web applications, resilient frontend archit
 | Project | Stack & Architecture | Business Role & Highlights | Live Demo / Repository |
 | :--- | :--- | :--- | :--- |
 | **Verus Web** | `Next.js` `React` `Tailwind` `Vercel` | **Canine Education & Behavioral Platform.** High-ticket conversion funnel, mobile-first responsive design, dynamic media optimization, and robust SEO architecture. | 🌐 [verusdogs.com](https://verusdogs.com) |
-| **Landing Foundry** | `React` `Vite` `Framer Motion` `Tailwind` | **Multi-Theme High-Conversion Landing Factory.** Decoupled JSON data architecture, runtime semantic CSS token engine, and 60fps GPU-accelerated motion layers. | ⚡ [Repository & Demo](https://github.com/wilsonvicttoria/landing-foundry) |
-| **Victoria Studio** | `Astro` `TypeScript` `Tailwind` | **Ultra-Fast Editorial Web Experience.** Content-driven static architecture, zero-JS defaults for instant page loads, and modern typography hierarchy. | 🚀 [Repository](https://github.com/wilsonvicttoria/victoria-studio) |
-| **Habit Tracker OS** | `JavaScript` `Node.js` `SQLite` `PWA` | **Local-First Personal Operating System.** Offline-first reactive state management, persistent SQLite storage, and mobile touch interactions. | 📱 [Repository](https://github.com/wilsonvicttoria/habit_tracker_betovittoria) |
+| **Landing Foundry** | `React` `Vite` `Framer Motion` `Tailwind` | **Multi-Theme High-Conversion Landing Factory.** Decoupled JSON data architecture, runtime semantic CSS token engine, and 60fps GPU-accelerated motion layers. | ⚡ [Repository & Demo](https://github.com/betovittoria/landing-foundry) |
+| **Victoria Studio** | `Astro` `TypeScript` `Tailwind` | **Ultra-Fast Editorial Web Experience.** Content-driven static architecture, zero-JS defaults for instant page loads, and modern typography hierarchy. | 🚀 [Repository](https://github.com/betovittoria/victoria-studio) |
+| **Habit Tracker OS** | `JavaScript` `Node.js` `SQLite` `PWA` | **Local-First Personal Operating System.** Offline-first reactive state management, persistent SQLite storage, and mobile touch interactions. | 📱 [Repository](https://github.com/betovittoria/habit_tracker_betovittoria) |
 
 ---
 
@@ -59,9 +59,9 @@ SOLID Principles  ·  Spec-Driven Development (SDD)  ·  Atomic Design  ·  Perf
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wilsonvicttoria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" alt="Wilson's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=betovittoria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" alt="Wilson's GitHub Stats" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonvicttoria&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=betovittoria&layout=compact&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&text_color=94A3B8" alt="Top Languages" height="150" />
 </div>
 
 ---
@@ -70,6 +70,6 @@ SOLID Principles  ·  Spec-Driven Development (SDD)  ·  Atomic Design  ·  Perf
 
 Looking to build a high-performance web product, modernize your frontend architecture, or launch a high-conversion landing page?
 
-* 📬 **Direct Email:** [wilsonvicttoria@gmail.com](mailto:wilsonvicttoria@gmail.com)
+* 📬 **Direct Email:** [betovittoria@gmail.com](mailto:betovittoria@gmail.com)
 * 💼 **Upwork Client Inquiries:** Available for contracts, frontend refactors, and full-stack web builds.
 * 📍 **Location:** Remote / Worldwide (UTC-5)
