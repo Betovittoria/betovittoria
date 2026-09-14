@@ -16,7 +16,7 @@
 
 ---
 
-### 01 // Architectural Philosophy
+### <img src="assets/icons/architecture.svg" width="18" height="18" valign="middle" /> 01 // Architectural Philosophy
 
 > *"Code without architectural understanding is just technical debt waiting to happen. Build on solid foundations: clean component separation, strict standards, and relentless performance."*
 
@@ -28,7 +28,7 @@ I engineer **high-converting web applications, resilient frontend architectures,
 
 ---
 
-### 02 // Featured Production Systems & Case Studies
+### <img src="assets/icons/layers.svg" width="18" height="18" valign="middle" /> 02 // Featured Production Systems & Case Studies
 
 | System | Architecture & Stack | Focus & Highlights | Deployment |
 | :--- | :--- | :--- | :--- |
@@ -39,7 +39,7 @@ I engineer **high-converting web applications, resilient frontend architectures,
 
 ---
 
-### 03 // Technical Matrix
+### <img src="assets/icons/matrix.svg" width="18" height="18" valign="middle" /> 03 // Technical Matrix
 
 #### **Frontend & UI Engineering**
 ```
@@ -58,7 +58,7 @@ SOLID Principles  ·  Spec-Driven Development (SDD)  ·  Atomic Design  ·  Perf
 
 ---
 
-### 04 // Engineering Metrics
+### <img src="assets/icons/telemetry.svg" width="18" height="18" valign="middle" /> 04 // Engineering Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=betovittoria&show_icons=true&theme=tokyonight&hide_border=true&bg_color=090D16&title_color=38BDF8&icon_color=818CF8&text_color=94A3B8" alt="Wilson's GitHub Stats" height="150" />
@@ -68,7 +68,7 @@ SOLID Principles  ·  Spec-Driven Development (SDD)  ·  Atomic Design  ·  Perf
 
 ---
 
-### 05 // Inquiries & Client Engagements
+### <img src="assets/icons/inquiry.svg" width="18" height="18" valign="middle" /> 05 // Inquiries & Client Engagements
 
 Available for selective client contracts, frontend architecture modernization, and high-conversion web builds.
 
