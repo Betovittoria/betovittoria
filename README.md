@@ -30,28 +30,6 @@ I engineer **high-converting web applications, resilient frontend architectures,
 
 ### <img src="assets/icons/layers.svg" width="18" height="18" valign="middle" /> 02 // Featured Production Systems & Case Studies
 
-#### Spotlight: Verus Web — Canine Behavioral Platform
-> Production case study: high-ticket service funnel built with Next.js, Tailwind CSS, and mobile-first architectural rigor.
-
-<div align="center">
-  <a href="https://verusdogs.com">
-    <img src="assets/verus-desktop.png" width="100%" alt="Verus Web — Live Desktop Showcase" />
-  </a>
-</div>
-
-<br />
-
-| Architectural Dimension | Engineering & Business Specification |
-| :--- | :--- |
-| **Live Production** | [verusdogs.com ↗](https://verusdogs.com) (Deployed via Vercel Edge Network) |
-| **Frontend Architecture** | Next.js (App Router), React, Tailwind CSS, Component-Driven Design System |
-| **Performance & CWV** | Sub-second First Contentful Paint, optimized SVG topographic backgrounds, zero CLS |
-| **Conversion Strategy** | High-ticket clinical ethology consultation funnel with WhatsApp telemetry routing |
-
-<br />
-
-#### Production Systems Matrix
-
 | System | Architecture & Stack | Focus & Highlights | Deployment |
 | :--- | :--- | :--- | :--- |
 | **Verus Web** | `Next.js` `React` `Tailwind` `Vercel` | **Canine Education & Behavioral Platform.** High-ticket conversion funnel, mobile-first responsive design, dynamic media optimization, and robust SEO architecture. | [verusdogs.com ↗](https://verusdogs.com) |
